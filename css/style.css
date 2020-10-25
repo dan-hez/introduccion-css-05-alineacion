@@ -1,0 +1,13 @@
+main{
+    width: 90%;
+    height: auto;
+}
+.izquierda{
+    text-align: left;
+}
+.centro{
+    text-align: center;
+}
+.derecha{
+    text-align: right;
+}
